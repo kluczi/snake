@@ -11,7 +11,6 @@ A modern reinterpretation of the classic “Snake” game, written in C++ using 
 -   **C++ compiler** with C++17 support
 -   **SDL2** library (>= 2.0.0) and development headers
 -   **Make**
--   **pkg-config** (on Linux/macOS) or equivalent (e.g. vcpkg/Conan on Windows)
 
 > Ensure all dependencies are installed and discoverable via your system’s include/library paths.
 
@@ -21,10 +20,10 @@ A modern reinterpretation of the classic “Snake” game, written in C++ using 
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/snake-game.git
+git clone https://github.com/kluczi/snake.git
 
 # 2. Change directory to the project
-cd snake-game
+cd snake
 
 # 3. Build and run
 make && ./main
