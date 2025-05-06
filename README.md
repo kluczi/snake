@@ -28,6 +28,8 @@ cd snake
 # 3. Build and run
 make && ./main
 ```
+# Short presentation here
+-  **[Link](https://www.youtube.com/shorts/XQ7APOFwD08)**
 
 # License
 
